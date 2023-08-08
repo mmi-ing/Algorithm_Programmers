@@ -32,5 +32,6 @@ if __name__ == "__main__":
     # solution 함수 호출
     result = solution(board, moves)
 
+    
     # 결과 출력
     print(result)
